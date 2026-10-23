@@ -1,11 +1,11 @@
 # Sprint 1
 
-Objectif : se connecter, ajouter un véhicule, chercher une pièce et approuver les comptes professionnels.
+Objectif : se connecter et ajouter un véhicule.
 
 ## Sprint Backlog
 - #1 Se connecter (2)
 - #2 Ajouter un véhicule (2)
 - #3 Chercher une pièce (2)
-- #4 Approuver les comptes (2)
+- #6 Choisir un symptôme (3)
 
-Total : 8
+Total : 9
